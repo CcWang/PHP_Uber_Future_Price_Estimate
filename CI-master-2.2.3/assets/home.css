@@ -1,0 +1,36 @@
+* {
+	height: auto;
+	font-family: 'Chewy', cursive;
+	color: white;
+}
+
+#logo{
+	width: 55px;
+	height: 55px;
+	padding: 5px;
+	margin-left: 10px;
+}
+#logo, h5{
+	display: inline-block;
+}
+#map{
+	margin: 20px;
+	height: 500px;
+	border-radius: 20px;
+	
+}
+#content {
+	background-image: url("background.jpg");
+	background-size:100% 100%;
+    background-repeat: no-repeat;
+	width: auto;
+	height: 600px;
+	opacity: 0.8;
+	border: none;
+	padding: 5px;
+	
+}
+
+#words{
+	margin-top: 350px;
+}

@@ -1,0 +1,46 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#logo{
+	width: 55px;
+	height: 55px;
+	padding: 5px;
+	margin-left: 10px;
+}
+
+#logo, h5{
+	display: inline-block;
+	font-family: 'Chewy', cursive;
+}
+#map {
+	height: 50%;
+	width: 50%;
+	text-align: right;
+
+}
+#results {
+	width: 40%;
+	
+}
+
+#results, #map{
+	
+	display: inline-block;
+	vertical-align: top;
+	margin:10px;
+}
+
+/*************Result Display*************/
+#warnings {
+	font-size: 12px;
+	margin: -5px;
+}
+span{
+	font-weight: bold;
+}
+
+#alarm {
+	font-size: 16px;
+}

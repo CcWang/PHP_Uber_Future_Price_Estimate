@@ -21,4 +21,4 @@ A web app to predict Uber future price changes for the Bay Area.
 * Stack: PHP, MySQL
 * 
 ### Screenshots
-![](https://github.com/CcWang/Ccwang.github.io/blob/master/static/images/uber.jpg)
+![](https://github.com/CcWang/PHP_Uber_Future_Price_Estimate/blob/master/uber.png)
